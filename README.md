@@ -1,4 +1,4 @@
-# Rally Switch
+# Rally Switch (Beta)
 
 Vaším úkolem je namodelovat „Rally Switch“ pro ovládání roadbooku
 na motocyklové závody.
@@ -10,6 +10,28 @@ Na obrázku vidíte, jak taková věc vypadá ve skutečnosti.
 Budete modelovat zjednodušenou variantu.
 
 ![Náhled celku](main.svg.png)
+
+## Odevzdání a termíny
+
+**Toto je beta verze zadání.**
+To znamená, že se ještě může upřesňovat,
+případně může dojít k opravě chyb a nepřesností,
+ale podstata zadání již zůstane stejná.
+
+Založte repozitář: https://classroom.github.com/a/LKcC_B9v
+
+Deadline odevzdání je **21.12.2019 23:59 CET**.
+Vypracovaný úkol nahrajte do repozitáře vytvořeného na odkaze výše.
+Nikam jinam jej neposílejte, jako odevzdání se počítá to,
+co bude ve vašem repozitáři (ve výchozí větvi (většinou master))
+v momentu deadlinu.
+
+Pokud máte jakékoliv dotazy, či naleznete chyby, napište je prosím do
+[Issues](https://github.com/3DprintFIT/B181HW-Assignment/issues) v tomto repozitáři.
+
+Po pushnutí commitu do vašeho repozitáře proběhne sada testů.
+V současné verzi je testů málo, budou postupně přibývat až do 21.11.
+Testy vyžadují optickou kontrolu.
 
 ## Rozhraní
 

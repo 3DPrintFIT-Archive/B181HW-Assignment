@@ -16,7 +16,7 @@
    height="1297.2472"
    viewBox="0 0 1797.5257 1297.2472"
    sodipodi:docname="top_scheme.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -74,15 +74,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1848"
-     inkscape:window-height="1056"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.1891487"
-     inkscape:cx="1206.4323"
-     inkscape:cy="790.83677"
-     inkscape:window-x="72"
-     inkscape:window-y="0"
+     inkscape:zoom="2.3782974"
+     inkscape:cx="1522.8883"
+     inkscape:cy="893.78275"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g5533"
      fit-margin-top="5"
@@ -176,6 +176,7 @@
      x="150655 151906.73 153714.22 154269.98 154965.95 156217.67 157609.59 159001.52 160253.25 161645.16 163037.08 163592.84 164984.77 166376.69 167768.61 169160.53 169716.3 171108.22 172500.14 174307.62 174863.41 176255.31 176951.28">switch_cable_hole_width</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2162"
@@ -266,6 +267,7 @@
      x="152703 153954.73 155762.22 156317.98 157013.95 158265.67 159657.59 161049.52 162301.25 163552.97 164386.62 165778.55 167586.03 168977.95 170369.88 170925.64 172177.38 172873.33 174265.25 175657.17 176908.89 178300.81 179692.73 180388.7 181222.34 182614.27 184699.64 186091.56 186787.53 188179.44">switch_screw_distance_from_top</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2208"
@@ -306,6 +308,7 @@
      sodipodi:role="line"
      y="-127604"
      x="382944 384195.72 386003.22 386559 387254.94 388506.69 389898.59 391290.5 392542.25 393793.97 394627.62 396019.53 397827.03 399218.97 400610.88 401166.66 402418.38 403114.31 404506.25 405898.16 407149.91 408541.81 409933.75 410629.69 411463.34 412855.28 414940.66 416332.56 417724.5 419116.41 420508.31">switch_screw_distance_from_edge</tspan></text>
+
 
 
 </g><g
@@ -416,6 +419,7 @@
      x="106076.67 107328.41 109135.91 109691.69 110387.65 111639.38 113031.32 114423.25 115674.98 117066.91 118458.84 119014.61 120406.54 121798.47 123190.4 124582.33 125138.1 126530.03 127921.96 129313.89 129869.66 131261.59 133346.98 134738.91 135434.88 136826.81">switch_cable_hole_diameter</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2088"
@@ -516,6 +520,7 @@
      x="83203 84454.727 86262.219 86817.984 87513.945 88765.672 90157.594 91549.516 92801.242 94052.969 94886.617 96278.539 98086.031 99477.953 100729.68 102121.6 103513.52 104765.25 105321.02 106712.94">switch_screw_spacing</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2230"
@@ -558,6 +563,7 @@
      x="11518 12769.727 14577.221 15132.987 15828.947 17080.676 18472.596 19864.516 21116.242 22367.969 23201.621 24593.539 26401.035 27792.953 29184.875 29740.643 30992.369 31688.328 33080.25 34472.172 35723.898 37115.816 38507.738 39203.695 40037.348 41429.266 43514.648 44906.566 46298.488 47690.406 49082.328">switch_screw_distance_from_edge</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2252"
@@ -594,6 +600,7 @@
      sodipodi:role="line"
      y="37223"
      x="152703 153954.73 155762.22 156317.98 157013.95 158265.67 159657.59 161049.52 162301.25 163552.97 164386.62 165778.55 167586.03 168977.95 170369.88 170925.64 172177.38 172873.33 174265.25 175657.17 176908.89 178300.81 179692.73 180388.7 181222.34 182614.27 184699.64 186091.56 186787.53 188179.44">switch_screw_distance_from_top</tspan></text>
+
 
 
 </g><g
@@ -1244,6 +1251,7 @@
      x="250643.42 252035.34 253427.25 254260.91 255652.81 257044.72 257600.48 258992.41 261077.77 262469.69 263165.62 264557.56">bar_diameter</tspan></text>
 
 
+
 <g
    id="g2000"><path
      inkscape:connector-curvature="0"
@@ -1299,6 +1307,7 @@
      x="227199 228450.73 230258.22 230813.98 231509.95 232761.67 234153.59 235545.52 236797.25 238048.97 238882.62 240274.55 242082.03 243473.95 244865.88 246257.8 247649.72 248345.67">switch_screw_depth</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2030"
@@ -1339,6 +1348,7 @@
      sodipodi:role="line"
      y="-126089"
      x="138230 139481.73 141289.22 141844.98 142540.95 143792.67 145184.59 146576.52 147828.25 149079.97 149913.62 151305.55 153113.03 154504.95 155896.88 157288.8 158680.72 159376.67">switch_screw_depth</tspan></text>
+
 
 
 <path
@@ -1383,6 +1393,7 @@
      x="262295 263546.72 265354.22 265910 266605.94 267857.69 269249.59 270641.5 271893.25 273285.16 274677.09 275232.84 276624.78 278016.69 279408.62 280800.53 281356.31 282748.22 284140.12 285532.06 286923.97 288315.91 289011.88">switch_cable_hole_depth</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2294"
@@ -1423,6 +1434,7 @@
      sodipodi:role="line"
      y="265284"
      x="96302 97553.727 99361.219 99916.984 100612.95 101864.67 103256.59 104648.52 105900.24 107151.97 107985.62 109377.54 111185.03 112576.95 113968.88 114524.64 115916.56 118001.94 119393.86 120089.82 121481.74">switch_screw_diameter</tspan></text>
+
 
 
 <path
@@ -1467,6 +1479,7 @@
      x="116581 117972.92 119364.84 120060.8 120756.76 122148.68 123540.6 124932.52 125488.29 126880.21 128131.94 129383.66 130775.59 131609.23 132165 134250.38 135642.3 137034.22 138426.14 138981.91 140373.83 141765.75">button_lock_rim_height</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2338"
@@ -1503,6 +1516,7 @@
      sodipodi:role="line"
      y="184236"
      x="152736 153431.95 154823.88 156215.8 157607.72 158999.64 160391.56 161643.28 163035.2 164427.12 165819.05 167210.97 167766.73 169158.66 170550.58">top_base_height</tspan></text>
+
 
 
 <path
@@ -2269,6 +2283,7 @@
      x="-17946.393 -16554.457 -15162.52 -14466.551 -13770.583 -12378.646 -10986.709 -9594.7725 -8202.8359 -7647.061 -6255.125 -4169.7231 -2777.7874 -2081.8184 -689.88147">button_diameter</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path1550"
@@ -2432,6 +2447,7 @@
      x="329580.56 330972.5 332364.41 333060.34 333756.31 335148.22 336540.16 337932.06 339323.97 340715.91 341411.84 342107.81 343499.72 345585.09 346977 348368.91 349620.66 350872.38 352264.28 353516">button_bottom_access</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path1984"
@@ -2484,6 +2500,7 @@
      x="162472 163863.92 165255.84 165951.8 166647.77 168039.69 169431.61 170823.52 172215.44 173607.36 174999.28 176391.2 177783.12 179034.84 180426.77 181818.69 183070.42 183626.19 185018.11 186410.03">button_edge_spacing.x</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2378"
@@ -2520,6 +2537,7 @@
      sodipodi:role="line"
      y="-260025"
      x="162006 163397.92 164789.84 165485.8 166181.77 167573.69 168965.61 170357.52 171749.44 173141.36 174533.28 175925.2 177317.12 178568.84 179960.77 181352.69 182604.42 183160.19 184552.11 185944.03 186639.98">button_edge_spacing.y</tspan></text>
+
 
 
 <path
@@ -2564,6 +2582,7 @@
      x="233325 234716.92 236108.84 236804.8 237500.77 238892.69 240284.61 241676.52 242928.25 244320.17 245712.09 246963.81 247519.58 248911.5 250303.42 250999.39">button_spacing.x</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2420"
@@ -2606,6 +2625,7 @@
      x="222271 223662.92 225054.84 225750.8 226446.77 227838.69 229230.61 230622.52 231874.25 233266.17 234658.09 235909.81 236465.58 237857.5 239249.42 239945.39">button_spacing.y</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2442"
@@ -2625,6 +2645,7 @@
      sodipodi:role="line"
      y="-187334.88"
      x="185967 188052.41 189444.33 190836.27 192228.2 192924.17 193479.94 194871.88 196263.8 197655.73 198907.47 200159.2 200992.86 202384.8 204192.31 205584.23 206976.17 207531.94 208923.88 211009.27 212401.2 213097.17 214489.09">mounting_screw_diameter</tspan></text>
+
 
 
 <path
@@ -2851,11 +2872,12 @@
      x="184444 185835.92 187227.84 187923.8 188619.77 190011.69 191403.61 192795.52 194047.25 195439.17 196831.09 198082.81 198638.58 200030.5 201422.42 202118.39 203370.11 204066.08">button_spacing.x/2</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path2616"
-   style="fill:none;stroke:#000000;stroke-width:128;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-   d="m 240611,229137 h 27238" /><path
+   style="fill:none;stroke:#000000;stroke-width:130.0141449;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   d="m 239702.3,230161.61 h 28101.95" /><path
    inkscape:connector-curvature="0"
    id="path2618"
    style="fill:none;stroke:#000000;stroke-width:128;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -2866,18 +2888,19 @@
    d="m 266825,225809 v -1792" /><path
    inkscape:connector-curvature="0"
    id="path2622"
-   style="fill:none;stroke:#000000;stroke-width:128;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-   d="m 266825,230929 v 24049" /><path
+   style="fill:none;stroke:#000000;stroke-width:130.20230103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   d="M 266825,230094.33 V 254978" /><path
    inkscape:connector-curvature="0"
    id="path2624"
-   style="fill:none;stroke:#000000;stroke-width:128;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-   d="m 266825,227601 v 1536" /><g
+   style="fill:none;stroke:#000000;stroke-width:161.80691528;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   d="m 266825,227639.82 v 2454.51" /><g
    id="g2626"><path
      inkscape:connector-curvature="0"
      id="path2628"
      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:135.37905884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
      d="m 266526,225809 h 598 l -299,1792 z" /></g><g
-   id="g2630"><path
+   id="g2630"
+   transform="translate(0,957.33)"><path
      inkscape:connector-curvature="0"
      id="path2632"
      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:135.37905884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -2893,6 +2916,7 @@
      x="233325 234716.92 236108.84 236804.8 237500.77 238892.69 240284.61 241676.52 242928.25 244320.17 245712.09 246963.81 247519.58 248911.5 250303.42 250999.39 252251.11 252947.08">button_spacing.x/2</tspan></text>
 
 
+
 <text
    transform="matrix(0,1,1,0,0,0)"
    style="font-variant:normal;font-weight:normal;font-size:2503.45410156px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2904,6 +2928,7 @@
      x="184173.23"
      y="269591.25">(od krajního tlačítka)</tspan></text>
 
+
 <text
    y="269591.25"
    x="232368.11"
@@ -2914,5 +2939,6 @@
      x="232368.11"
      id="tspan1569"
      sodipodi:role="line">(od krajního tlačítka)</tspan></text>
+
 
 </g></g></svg>

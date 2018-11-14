@@ -20,7 +20,7 @@ ale podstata zadání již zůstane stejná.
 
 Založte repozitář: https://classroom.github.com/a/LKcC_B9v
 
-Deadline odevzdání je **21.12.2019 23:59 CET**.
+Deadline odevzdání je **21.12.2018 23:59 CET**.
 Vypracovaný úkol nahrajte do repozitáře vytvořeného na odkaze výše.
 Nikam jinam jej neposílejte, jako odevzdání se počítá to,
 co bude ve vašem repozitáři (ve výchozí větvi (většinou master))

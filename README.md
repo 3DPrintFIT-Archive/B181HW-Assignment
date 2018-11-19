@@ -134,6 +134,10 @@ Schémata lze zvětšit. V repozitáři jsou i vektorové varianty.
 
 ![Schéma celku](assembly_scheme.svg.png)
 
+Na obrázku si všiměte úchytu na joystik a jeho zarovnání na předposlední (počítáno od Z=0) díru na tlačítko.
+Situaci, kdy je `holes.x` méně než 2, nemusíte řešit.
+
+
 ## Nefunkční požadavky
 
   - Manipulace s `$f*` hodnotami je zakázána

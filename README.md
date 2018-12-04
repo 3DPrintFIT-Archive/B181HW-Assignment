@@ -1,4 +1,4 @@
-# Rally Switch (Release Candidate)
+# Rally Switch
 
 Vaším úkolem je namodelovat „Rally Switch“ pro ovládání roadbooku
 na motocyklové závody.
@@ -13,9 +13,7 @@ Budete modelovat zjednodušenou variantu.
 
 ## Odevzdání a termíny
 
-**Toto je release candidate verze zadání.**
-To znamená, že dojde jen k opravě chyb (ale již to nepřekládáme) nebo k dopřesnění nejasností.
-Případné opravy budou opatřeny erratou.
+Toto je finální verze zadání. Případné opravy chyb v zadání budou opatřeny erratou a oznámeny studentům e-mailem.
 
 Založte repozitář: https://classroom.github.com/a/LKcC_B9v
 

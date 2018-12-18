@@ -147,3 +147,6 @@ Situaci, kdy je `holes.x` méně než 2, nemusíte řešit.
     - Bulharské konstanty musí být doplněny o vysvětlující komentář
     - Dodržte logickou úroveň odsazení
 
+## Errata
+
+  - 18.12.2018 bylo v testu č. 16 manuálně nastaveno `$fn`, aby se zamezilo problémům s pětiúhelníkovou dírou
